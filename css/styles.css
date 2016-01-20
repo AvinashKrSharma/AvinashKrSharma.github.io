@@ -53,3 +53,10 @@ body{
     color: #999999;
     color: #337AB7;
 }
+
+.offline-msg{
+    padding-top: 20px;
+    font-size: 12px;
+    color: green;
+
+}
